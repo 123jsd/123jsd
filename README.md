@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @123jsd
+- 👋 Hi, I’m Phers
 - 👀 I’m interested in thinking about life
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on self-improve
