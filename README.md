@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Phers
-- 👀 I’m interested in thinking about life
+- 👀 I’m interested in thinking
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on self-improve
 - 📫 How to reach me ...
